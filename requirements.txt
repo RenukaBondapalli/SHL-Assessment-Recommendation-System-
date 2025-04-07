@@ -1,4 +1,5 @@
 streamlit
+pandas
 langchain-google-genai
 llama-index
 llama-index-embeddings-huggingface
