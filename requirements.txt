@@ -5,3 +5,4 @@ llama-index-embeddings-huggingface
 protobuf<4.0.0  # often required for compatibility with Google/LLM packages
 transformers  # required by HuggingFaceEmbedding
 torch  # backend for transformers
+gunicorn
