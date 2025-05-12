@@ -37,7 +37,7 @@ query_engine = index.as_query_engine()
 llm = ChatGoogleGenerativeAI(
     model="gemini-1.5-flash",
     temperature=0.7,
-    google_api_key="AIzaSyA7YdIMRXPIlHfPSsn3vN3ZkiffBQhhEy0"  # Replace with your actual API key
+    google_api_key="ABC"  # Replace with your actual API key
 )
 
 def markdown_table_to_html(markdown_text: str) -> str:
